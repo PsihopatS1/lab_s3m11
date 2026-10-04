@@ -1,1 +1,2 @@
 Refactor JavaScript Code
+Update Styling Guidelines
